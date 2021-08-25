@@ -1,3 +1,3 @@
 # Demo
 
-This is a sample demo.
+This is a sample demo!
